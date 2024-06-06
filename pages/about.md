@@ -1,7 +1,6 @@
 ---
 title: About
 layout: about
-permalink: /about.html
 
 credits: false
 # Edit the markdown on in this file to describe your collection
