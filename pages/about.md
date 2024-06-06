@@ -6,7 +6,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
 ## About Descartes Pascal
 
 Descartes Pascal, photographer, farmer, and pioneer seed corn breeder, was born in De Witt, Clinton County, Iowa where he farmed, raising corn, shorthorn cattle, and Berkshire hogs. Pascal became interested in corn breeding after 1900 and developed the Grand Champion ear of purebred Reid's Yellow Dent corn in 1907. He also wrote and published articles on corn breeding; spoke at colleges, farmers' institutes, and chautauquas; and judged corn breeding contests in Iowa. Pascal served as secretary to the Iowa Corn Growers Association. He was also a practicing photographer.
