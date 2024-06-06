@@ -14,20 +14,13 @@ credits: true
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Descartes Pascal, photographer, farmer, and pioneer seed corn breeder, was born in De Witt, Clinton County, Iowa where he farmed, raising corn, shorthorn cattle, and Berkshire hogs. Pascal became interested in corn breeding after 1900 and developed the Grand Champion ear of purebred Reid's Yellow Dent corn in 1907. He also wrote and published articles on corn breeding; spoke at colleges, farmers' institutes, and chautauquas; and judged corn breeding contests in Iowa. Pascal served as secretary to the Iowa Corn Growers Association. He was also a practicing photographer.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The Descartes Pascal Papers (1890-1937, n.d.), located in Special Collections, includes a scrapbook of newspaper clippings, pamphlets, and memorabilia related to Pascal's achievements in corn breeding, and corn breeding in Iowa generally.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Also included are 180 glass plate negatives and two tintypes made by Pascal, documenting rural Iowa from the 1880s through the 1910s.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
+The Descartes Pascal digital collection contains a selection of images from the glass plate negative collection documenting rural life in Iowa around the turn of the twentieth century, including homesteads, buildings, and the Pascal family. Only a portion of the Descartes Pascal collection housed in the Special Collections Department is represented in the digital collection. Refer to the finding aid for the complete list of Pascal materials available through Special Collections.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
