@@ -1,15 +1,3 @@
 # Digital Collection of Descartes Pascal
 
-This is a collection of works by Descartes Pascal. He used glass plates to document his photographs.
-
-
-
-## Brief Overview of Building a Collection
-
-
-
-----------
-
-## CollectionBuilder 
-
-
+Descartes Pascal Digital Collection contains a selection of images from the glass plate negative collection documenting rural life in Iowa around the turn of the twentieth century, including homesteads, buildings, and the Pascal family.
